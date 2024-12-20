@@ -1,0 +1,1 @@
+loop{p(0..7).max_by{gets}}
